@@ -1,0 +1,22 @@
+#include<stdio.h>
+#include<conio.h>
+main(){
+ float n,killometers;
+
+printf("\n");
+ 
+printf("value in meters ");
+scanf("%f",&n);
+
+printf("\n");
+
+killometers=n/1000;
+
+printf("\n");
+
+printf("killo meters %f : ",killometers);
+
+		
+		
+getch();	
+}
